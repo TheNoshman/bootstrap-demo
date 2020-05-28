@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Caveat', cursive;
+}
+
+.container {
+	border: 1px solid green;
+}
+
+.row {
+	border: 1px solid red;
+}
+
+.col {
+	border: 1px solid blue;
+	
+}
+
+/*MAIN BACKGROUND IMG*/
+#main-img-row {
+	background-image: url(./images/sandra-seitamaa-0qvvFPtNx3A-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+	height: 700px;
+}
+/*SINGLE COLUMN FOR TITLES*/
+#title-col {
+	text-align: center;
+}
+
+/*H1 TITLE*/
+#title-h1 {
+	color: hsla(0, 100%, 100%, 60%);
+	font-size: 90px;
+	
+}
+
+/*SUB HEADING SPAN*/
+#sub-heading-span {
+	color: white;
+	font-size: 30px;
+	color: hsla(0, 100%, 100%, 60%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
